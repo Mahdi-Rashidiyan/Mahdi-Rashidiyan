@@ -44,7 +44,7 @@ CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a third-year Comput
   
   <br/><br/>
 
-  <a href="mailto:your.email@domain.com">
+  <a href="mahdirashidiyan32@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
   </a>
   &nbsp;&nbsp;
@@ -53,7 +53,7 @@ CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a third-year Comput
   </a>
   &nbsp;&nbsp;
   <a href="https://tochal.vercel.app">
-    <img src="https://img.shields.io/badge/Tochal-000000?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="Tochal" />
+    <img src="https://img.shields.io/badge/Tochal-000000?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="personal website" />
   </a>
 </div>
 
