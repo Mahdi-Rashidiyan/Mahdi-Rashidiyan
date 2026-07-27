@@ -20,9 +20,8 @@
 CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a third-year Computer Engineering student and AI researcher, my primary directive is pushing the boundaries of artificial intelligence. I focus on bridging high-level cognitive models with low-level hardware execution to build scalable, high-performance systems.
 
 - 🌐 **Current Operation:** CEO & Founder @ **[Tochal](https://tochal.vercel.app)**
-- **Cognitive Processing:** Deep Learning, Machine Learning, and Large Language Models.
-- **Perception & Action:** Computer Vision, Reinforcement Learning, Embodied AI, and Robotics.
-- **Hardware Optimization:** GPU Programming and Low-Level System architecture.
+- **Cognitive Processing:** Deep Learning, Machine Learning, ML systems and Large Language Models.
+- **Perception & Action:** AI Agents, Reinforcement Learning, ML compiler.
 - **Application Layer:** Utilizing Python to architect scalable software applications and web platforms.
 
 ---
@@ -37,13 +36,14 @@ CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a third-year Comput
 
 <br/>
 
-### 📊 Digital Footprint & Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Rashidiyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9" height="192px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Rashidiyan&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9" height="192px"/>
-</div>
-
+###   Contact
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  [TRANSMISSION CHANNELS]                                                     │
+├──────────────────────────┬───────────────────────────────────────────────────┤
+│  [ 📧 EMAIL ]             │  mahdirashidiyan32@gmail.com                            │
+│  [ 💼 LINKEDIN ]          │  [linkedin.com/in/mahdi-rashidiyan](https://linkedin.com/in/mahdi-rashidiyan)                 │
+│  [ 🌐 WEBSITE ]           │  tochal.vercel.app                                │
+└──────────────────────────┴───────────────────────────────────────────────────┘
 <br/>
 
 <div align="center">
