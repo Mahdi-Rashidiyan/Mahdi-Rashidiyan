@@ -57,13 +57,7 @@ CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a third-year Comput
   </a>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Rashidiyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=c9d1d9" />
-</div>
-
-<br/>
 
 ---
 
