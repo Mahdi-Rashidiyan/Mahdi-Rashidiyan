@@ -52,7 +52,7 @@ CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a AI researcher, my
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://tochal.vercel.app">
+  <a href="https://mahdirashidiyan.vercel.app">
     <img src="https://img.shields.io/badge/Personal-000000?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="personal website" />
   </a>
 </div>
