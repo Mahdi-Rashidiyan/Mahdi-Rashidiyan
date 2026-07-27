@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFCC&height=250&section=header&text=Mahdi%20Rashidiyan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=00FFCC&desc=AI%20Researcher%20%7C%20Computer%20Engineering%20CEO&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFCC&height=250&section=header&text=Mahdi%20Rashidiyan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=00FFCC&desc=AI%20Researcher%20%7C%20Tochal%20CEO&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">
@@ -17,7 +17,7 @@
 
 ### 🧠 System Status & Core Directives
 
-CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a third-year Computer Engineering student and AI researcher, my primary directive is pushing the boundaries of artificial intelligence. I focus on bridging high-level cognitive models with low-level hardware execution to build scalable, high-performance systems.
+CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a AI researcher, my primary directive is pushing the boundaries of artificial intelligence. I focus on bridging high-level cognitive models with low-level hardware execution to build scalable, high-performance systems.
 
 - 🌐 **Current Operation:** CEO & Founder @ **[Tochal](https://tochal.vercel.app)**
 - **Cognitive Processing:** Deep Learning, Machine Learning, ML systems and Large Language Models.
