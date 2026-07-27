@@ -36,15 +36,28 @@ CEO & Founder at **[Tochal](https://tochal.vercel.app)**. As a third-year Comput
 
 <br/>
 
-###   Contact
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  [TRANSMISSION CHANNELS]                                                     │
-├──────────────────────────┬───────────────────────────────────────────────────┤
-│  [ 📧 EMAIL ]             │  mahdirashidiyan32@gmail.com                            │
-│  [ 💼 LINKEDIN ]          │  [linkedin.com/in/mahdi-rashidiyan](https://linkedin.com/in/mahdi-rashidiyan)                 │
-│  [ 🌐 WEBSITE ]           │  tochal.vercel.app                                │
-└──────────────────────────┴───────────────────────────────────────────────────┘
-<br/>
+### 📡 Neural Links & Communication Channels
+
+<div align="center">
+  <!-- Animated Signal Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=800&color=00FFCC&center=true&vCenter=true&width=500&lines=%3E+Establishing+direct+comm+link...;%3E+Ready+for+research+%26+collaboration." alt="Comm Link Typing" />
+  
+  <br/><br/>
+
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mahdi-rashidiyan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tochal.vercel.app">
+    <img src="https://img.shields.io/badge/Tochal-000000?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="Tochal" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Rashidiyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=c9d1d9" />
